@@ -3,7 +3,7 @@ class swap{
 public static void main(String[] args) {
      
    int a, b, temp;
-   a = 15;
+   a = 12;
    b = 27;
    System.out.println("Before swapping : a, b = "+a+", "+ + b);
     //System.out.println("Before swapping : a, b = "+a", " + b);
