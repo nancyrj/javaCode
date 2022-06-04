@@ -44,10 +44,3 @@
             }
             System.out.println(monthString);
         }
-
-
-
-
-
-
-
