@@ -1,6 +1,6 @@
 class practice2{
 public static void main (String[]args){
-int i = 80;
+int i = 45;
 do{ 
 System.out.println(i+20);
 i++;
